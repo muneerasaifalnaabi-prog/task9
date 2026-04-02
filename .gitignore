@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 debug.log
 temp/
 node_modules/
 .env
 dist/
+=======
+node_modules/
+.env
+dist/
+
+>>>>>>> b15887bd04d85f170f9321d7c437b05094ec1f82
